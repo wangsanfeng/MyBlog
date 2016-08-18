@@ -1,0 +1,6 @@
+bootstrap-admin (0.3.6)
+Django (1.7.1)
+Markdown (2.6.6)
+pip (7.1.0)
+setuptools (18.0.1)
+wheel (0.24.0)
